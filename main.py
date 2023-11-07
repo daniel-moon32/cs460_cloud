@@ -43,4 +43,4 @@ def get_cve_details(cve_id):
     except Exception as err:
         print(f"An error occurred: {err}")
 
-get_cve_details('CVE-2021-34527')
+get_cve_details('CVE-2016-5195')
